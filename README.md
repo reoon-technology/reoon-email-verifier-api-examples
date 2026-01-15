@@ -22,8 +22,8 @@ Official code examples for integrating Reoon Email Verifier API into your applic
 ## 📚 Available Examples
 
 ### Python
-- **[single_verify.py](single_verify.py)** - Single email verification (Quick & Power mode)
-- **[bulk_verify.py](bulk_verify.py)** - Bulk email verification with progress tracking
+- **[single_verify.py](python/single_verify.py)** - Single email verification (Quick & Power mode)
+- **[bulk_verify.py](python/bulk_verify.py)** - Bulk email verification with progress tracking
 
 ### Coming Soon
 - JavaScript/Node.js

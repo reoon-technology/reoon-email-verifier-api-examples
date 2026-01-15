@@ -1,6 +1,6 @@
 # Reoon Email Verifier API - Code Examples
 
-Official code examples for integrating [Reoon Email Verifier API](https://www.reoon.com/email-verifier/) into your applications. Verify email addresses with high accuracy using our powerful email verification service.
+Official code examples for integrating Reoon Email Verifier API into your applications. Verify email addresses with high accuracy using our powerful email verification service.
 
 ## 🚀 About Reoon Email Verifier
 
@@ -28,10 +28,8 @@ Official code examples for integrating [Reoon Email Verifier API](https://www.re
 ### Coming Soon
 - JavaScript/Node.js
 - PHP
-- Ruby
 - Java
 - C#/.NET
-- Go
 
 ## 🔑 Getting Your API Key
 
@@ -121,16 +119,6 @@ For complete API documentation, visit: [Reoon Email Verifier API Docs](https://w
 - **Free Plan:** Up to 600 credits/month
 - **Paid Plans:** Available for higher volumes
 
-Check your remaining credits:
-```python
-import requests
-
-api_key = "your_api_key"
-url = f"https://emailverifier.reoon.com/api/v1/check-account-balance/?key={api_key}"
-
-response = requests.get(url)
-print(response.json())
-```
 
 ## 🛠️ Integration Support
 

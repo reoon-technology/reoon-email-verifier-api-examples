@@ -76,7 +76,7 @@ for email, data in results['results'].items():
     print(f"{email}: {data['status']}")
 ```
 
-## 📖 Verification Modes
+## Verification Modes
 
 ### Quick Mode
 - Ultra-fast verification (~0.5 seconds)
